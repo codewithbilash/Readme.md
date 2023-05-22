@@ -1,4 +1,4 @@
-## Hello, I'm [Bilash Paul](https://imbilash.github.io/) 👋
+## Hello, I'm [Bilash Paul](https://codewithbilash.github.io/) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imbilash&label=Views&color=blue&style=plastic" alt="bilashpaul" /> </p>
 
@@ -10,7 +10,7 @@
   <img align="left" alt="Bilash's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.youtube.com/@techiebilash/">
-  <img align="left" alt="TechSoftDev" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" alt="TechieBilash" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
 <br/>
